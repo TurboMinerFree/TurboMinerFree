@@ -24,3 +24,6 @@ Brute force cracking method doesn't have an estimated time for completion. It ma
 
 Is it legal to use this program?
 Yes, once you brute force a wallet private key, you are automatically recognized as the wallet owner. Therefore you are able to perform everything on that wallet.
+
+
+NOT DONE YET!
