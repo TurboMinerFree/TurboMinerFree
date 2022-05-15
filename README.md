@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TurboMinerFree
+- 👀 I’m interested in Bitcoin Wallet mining and Etherium Wallet mining.
+- 🌱 I’m currently working on a BTC and ETH miner for free.
+- 📫 Join my discord https://discord.gg/hsmw9SkHcZ to never miss any important updates!
